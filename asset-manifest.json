@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/css/main.13da662b.chunk.css",
+    "main.js": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/js/main.d1c64938.chunk.js",
+    "main.js.map": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/js/main.d1c64938.chunk.js.map",
+    "runtime-main.js": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/js/runtime-main.aaacb3a1.js",
+    "runtime-main.js.map": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/js/runtime-main.aaacb3a1.js.map",
+    "static/js/2.9e769e9f.chunk.js": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/js/2.9e769e9f.chunk.js",
+    "static/js/2.9e769e9f.chunk.js.map": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/js/2.9e769e9f.chunk.js.map",
+    "index.html": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/index.html",
+    "static/css/main.13da662b.chunk.css.map": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/css/main.13da662b.chunk.css.map",
+    "static/js/2.9e769e9f.chunk.js.LICENSE.txt": "/anupshah2it/React-Tic-Tac-Toe-Game-Development/static/js/2.9e769e9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaacb3a1.js",
+    "static/js/2.9e769e9f.chunk.js",
+    "static/css/main.13da662b.chunk.css",
+    "static/js/main.d1c64938.chunk.js"
+  ]
+}
